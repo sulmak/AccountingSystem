@@ -1,5 +1,7 @@
 # Ledgerline - Accounting System (ASP.NET Core 8 + Angular 17)
 
+![Ledgerline cover](docs/cover.png)
+
 Pattern (MVC)
 - Model      : backend/Models (EF Core entities) + backend/Data (DbContext) + PostingService (double-entry rules)
 - Controller : backend/Controllers (REST API; business rules and posting)
