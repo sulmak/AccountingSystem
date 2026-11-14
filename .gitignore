@@ -1,0 +1,16 @@
+# .NET build output
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Node / Angular
+node_modules/
+.angular/
+dist/
+
+# Local data
+*.db
+*.db-shm
+*.db-wal
